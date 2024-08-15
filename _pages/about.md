@@ -26,7 +26,7 @@ I am currently a PhD student at the [School of Computer Science & Technology, Be
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/prompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prompt Learning for Multi-Label Code Smell Detection： A Promising Approach](https://arxiv.org/pdf/2402.10398)
