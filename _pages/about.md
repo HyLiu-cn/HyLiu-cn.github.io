@@ -24,6 +24,59 @@ I am currently a PhD student at the [School of Computer Science & Technology, Be
 - *2024.1*: &nbsp;🎉🎉 Our paper "Code smell detection based on supervised learning models: A survey" has been accepted for publication by Neurocomputing.
 - *2024.1*: &nbsp;🎉🎉 Our paper "Code Smell Detection Research Based on Pre-training and Stacking Models" has been accepted for publication by IEEE Latin America Transactions.
 
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Prompt Learning for Multi-Label Code Smell Detection： A Promising Approach](https://arxiv.org/pdf/2402.10398)
+
+**Haiyang Liu**, Yang Zhang, Vidya Saikrishna, et al.
+
+[**Keywords**]
+- Code smell detection.
+- Prompt learning.
+- Multi-label classification.
+- Pre-trained language model.
+</div>
+</div>
+
+<hr />
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Code smell detection based on supervised learning models: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011372)
+
+Yang Zhang, Chuyan Ge, **Haiyang Liu**, et al.
+
+[**Keywords**]
+- Code smell.
+- Supervised learning.
+- Feature selection.
+- Dataset.
+- Data balancing.
+</div>
+</div>
+
+<hr />
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Code Smell Detection Research Based on Pre-training and Stacking Models]([https://www.sciencedirect.com/science/article/abs/pii/S0925231223011372](https://ieeexplore.ieee.org/abstract/document/10375735))
+
+Dongwen Zhang, Shuai Song, Yang Zhang, **Haiyang Liu**, et al.
+
+[**Keywords**]
+- Code smell.
+- Pre-training Model.
+- Textual Features.
+- Stacking Model.
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
 - *2021.10* 
 
