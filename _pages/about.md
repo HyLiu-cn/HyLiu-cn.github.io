@@ -43,7 +43,7 @@ I am currently a PhD student at the [School of Computer Science & Technology, Be
 
 <hr />
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/sl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2024</div><img src='images/sl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Code smell detection based on supervised learning models: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011372)
@@ -61,7 +61,7 @@ Yang Zhang, Chuyan Ge, **Haiyang Liu**, et al.
 
 <hr />
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/stacking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Latin America Transactions 2024</div><img src='images/stacking.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Code Smell Detection Research Based on Pre-training and Stacking Models](https://ieeexplore.ieee.org/abstract/document/10375735)
