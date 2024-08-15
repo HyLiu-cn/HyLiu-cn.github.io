@@ -64,7 +64,7 @@ Yang Zhang, Chuyan Ge, **Haiyang Liu**, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Code Smell Detection Research Based on Pre-training and Stacking Models]([https://www.sciencedirect.com/science/article/abs/pii/S0925231223011372](https://ieeexplore.ieee.org/abstract/document/10375735))
+[Code Smell Detection Research Based on Pre-training and Stacking Models](https://ieeexplore.ieee.org/abstract/document/10375735)
 
 Dongwen Zhang, Shuai Song, Yang Zhang, **Haiyang Liu**, et al.
 
