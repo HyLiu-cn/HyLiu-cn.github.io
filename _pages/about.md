@@ -33,3 +33,11 @@ I am currently a PhD student at the [School of Computer Science & Technology, Be
 
 # 💻 Internships
 - *2022.09*
+
+# ⚡ Hobbies
+- Badminton
+- Billiards
+- listening to music
+- Playing games
+- Mahjong
+- Traveling
