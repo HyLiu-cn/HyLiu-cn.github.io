@@ -33,7 +33,7 @@ I am currently a PhD student at the [School of Computer Science & Technology, Be
 
 **Haiyang Liu**, Yang Zhang, Vidya Saikrishna, et al.
 
-[**Keywords**]
+**Keywords**
 - Code smell detection.
 - Prompt learning.
 - Multi-label classification.
@@ -50,7 +50,7 @@ I am currently a PhD student at the [School of Computer Science & Technology, Be
 
 Yang Zhang, Chuyan Ge, **Haiyang Liu**, et al.
 
-[**Keywords**]
+**Keywords**
 - Code smell.
 - Supervised learning.
 - Feature selection.
@@ -68,7 +68,7 @@ Yang Zhang, Chuyan Ge, **Haiyang Liu**, et al.
 
 Dongwen Zhang, Shuai Song, Yang Zhang, **Haiyang Liu**, et al.
 
-[**Keywords**]
+**Keywords**
 - Code smell.
 - Pre-training Model.
 - Textual Features.
