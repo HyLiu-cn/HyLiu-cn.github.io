@@ -84,9 +84,6 @@ Dongwen Zhang, Shuai Song, Yang Zhang, **Haiyang Liu**, et al.
 - *2024.09 - (now)*, Beijing Institute of Technology. 
 - *2021.09 - 2024.06*, Hebei University of Science and Technology. 
 
-# 💻 Internships
-- *2022.09*
-
 # ⚡ Hobbies
 - Badminton
 - Billiards
@@ -94,3 +91,6 @@ Dongwen Zhang, Shuai Song, Yang Zhang, **Haiyang Liu**, et al.
 - Playing games
 - Mahjong
 - Traveling
+
+# 💻 Internships
+- *2022.09*
