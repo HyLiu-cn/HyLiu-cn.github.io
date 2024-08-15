@@ -19,14 +19,12 @@ redirect_from:
 # 🧍‍♂️ Biography
 I am currently a PhD student at the [School of Computer Science & Technology, Beijing Institute of Technology (BIT)](https://cs.bit.edu.cn/), focusing on computer vision, autonomous driving, and multimodal large language modeling. I received my master's degree from [Hebei University of Science and Technology](https://www.hebust.edu.cn/) in 2021 under the supervision of Prof Yang Zhang.
 
-# My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.2*: &nbsp;🎉🎉 Our paper "Prompt Learning for Multi-Label Code Smell Detection： A Promising Approach" has been uploaded to arXiv.
+- *2024.1*: &nbsp;🎉🎉 Our paper "Code smell detection based on supervised learning models: A survey" has been accepted for publication by Neurocomputing.
+- *2024.1*: &nbsp;🎉🎉 Our paper "Code Smell Detection Research Based on Pre-training and Stacking Models" has been accepted for publication by IEEE Latin America Transactions.
 
-# 📝 Publications 
+{% # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,6 +39,7 @@ I am currently a PhD student at the [School of Computer Science & Technology, Be
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+%}
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
